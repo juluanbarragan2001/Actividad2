@@ -1,0 +1,14 @@
+Actividad de Git y GitHub
+
+**Objetivo:** aprender a modificar archivos de texto y registrar cambios con Git.
+
+**Modalidad:** trabajo individual.
+
+**Herramientas utilizadas:** Git Bash, GitHub y Visual Studio Code.
+
+**Aprendizajes:**
+- Crear y editar archivos de texto.
+- Registrar cambios mediante Git.
+- Consultar el estado de los archivos con `git status`.
+- Guardar versiones del proyecto mediante `git commit`.
+- Publicar los cambios en GitHub mediante `git push`.
