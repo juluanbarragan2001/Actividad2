@@ -11,3 +11,5 @@ Cambio 4: creación de este registro de cambios.
 Cambio 5: publicación de los archivos en el repositorio de GitHub.
 
 Los cambios se registran mediante commits con mensajes claros y descriptivos.
+
+Prueba final: modificación realizada desde el repositorio clonado para practicar el flujo de trabajo de Git.
