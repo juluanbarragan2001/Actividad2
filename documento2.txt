@@ -1,0 +1,11 @@
+COMANDOS BÁSICOS DE GIT
+
+git status: permite consultar el estado de los archivos.
+
+git add: prepara los cambios para registrarlos.
+
+git commit: guarda los cambios en el historial del proyecto.
+
+git push: publica los cambios en el repositorio remoto de GitHub.
+
+git log: permite consultar el historial de confirmaciones realizadas.

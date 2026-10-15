@@ -1,0 +1,13 @@
+REGISTRO DE CAMBIOS
+
+Cambio 1: creación del documento inicial de la actividad.
+
+Cambio 2: actualización del README.md con la descripción de la actividad.
+
+Cambio 3: creación del documento sobre los comandos básicos de Git.
+
+Cambio 4: creación de este registro de cambios.
+
+Cambio 5: publicación de los archivos en el repositorio de GitHub.
+
+Los cambios se registran mediante commits con mensajes claros y descriptivos.
